@@ -1,0 +1,8 @@
+print("\t\t\tASCII CHARACTER : - LOWER ALPHABET\n")
+for i in range(97 ,123):
+    print(chr(i), end=" \t")
+print("\n")    
+O/P 
+enter number 97
+a 	b 	c 	d 	e 	f 	g 	h 	i 	j 	k 	l 	m 	n 	o 	p 	q 	r 	s 	t 	u 	v 	w 	x 	y 	 	
+
